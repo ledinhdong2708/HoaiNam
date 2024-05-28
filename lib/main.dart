@@ -3,6 +3,7 @@ import 'dart:developer';
 import 'dart:io';
 import 'package:appflutter_one/APIs/firebaseChat_options.dart';
 import 'package:appflutter_one/APIs/firebase_api.dart';
+import 'package:appflutter_one/_layouts/splash%20.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
@@ -88,11 +89,11 @@ class MyApp extends StatelessWidget {
                   .isAfter(DateTime.now())) {
                 return NavigationScreen(jwt, payload, password);
               } else {
-                return LoginScreen();
+                return SplashScreen();
               }
             }
           } else {
-            return LoginScreen();
+            return SplashScreen();
           }
         },
       ),
