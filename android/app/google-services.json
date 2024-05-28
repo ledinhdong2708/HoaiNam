@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607720209159",
+    "project_id": "notification-appmamnon",
+    "storage_bucket": "notification-appmamnon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607720209159:android:75cefc23127b7aac7be3a2",
+        "android_client_info": {
+          "package_name": "ftisg.appv1.appflutter_one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjb80vFI9EcTqml-Opvpi1jgeo10Jh_Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900299798438",
+    "project_id": "groupchatfirebase-ca4c6",
+    "storage_bucket": "groupchatfirebase-ca4c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900299798438:android:14ffc7a29bbd8b8b700167",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM7dSwZkvkJnjd-BQUyp_6K2yT5CYzR4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900299798438:android:6dce8f26e27d521e700167",
+        "android_client_info": {
+          "package_name": "ftisg.appv1.appflutter_one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM7dSwZkvkJnjd-BQUyp_6K2yT5CYzR4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
